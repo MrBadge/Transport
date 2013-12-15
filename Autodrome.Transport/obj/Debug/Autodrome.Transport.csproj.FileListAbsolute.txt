@@ -45,3 +45,18 @@ C:\Users\Анатолий\Desktop\transport\123\Autodrome.Transport\bin\Debug\Au
 \\psf\Dropbox\Logos\transport\123\Autodrome.Transport\bin\Debug\Autodrome.Base.pdb
 \\psf\Dropbox\Logos\transport\123\Autodrome.Transport\bin\Debug\Autodrome.Interfaces.pdb
 \\psf\Dropbox\Logos\transport\123\Autodrome.Transport\obj\Debug\Autodrome.Transport.pdb
+C:\Users\Anatoly Maltsev\Desktop\GitHub\Transport\Autodrome.Transport\bin\Debug\Resources\IdleIcon.ico
+C:\Users\Anatoly Maltsev\Desktop\GitHub\Transport\Autodrome.Transport\bin\Debug\Resources\BusyIcon.ico
+C:\Users\Anatoly Maltsev\Desktop\GitHub\Transport\Autodrome.Transport\bin\Debug\Autodrome.Transport.exe.config
+C:\Users\Anatoly Maltsev\Desktop\GitHub\Transport\Autodrome.Transport\bin\Debug\Autodrome.Transport.exe
+C:\Users\Anatoly Maltsev\Desktop\GitHub\Transport\Autodrome.Transport\bin\Debug\Autodrome.Transport.pdb
+C:\Users\Anatoly Maltsev\Desktop\GitHub\Transport\Autodrome.Transport\bin\Debug\Autodrome.Base.dll
+C:\Users\Anatoly Maltsev\Desktop\GitHub\Transport\Autodrome.Transport\bin\Debug\Autodrome.Interfaces.dll
+C:\Users\Anatoly Maltsev\Desktop\GitHub\Transport\Autodrome.Transport\bin\Debug\Autodrome.Base.pdb
+C:\Users\Anatoly Maltsev\Desktop\GitHub\Transport\Autodrome.Transport\bin\Debug\Autodrome.Interfaces.pdb
+C:\Users\Anatoly Maltsev\Desktop\GitHub\Transport\Autodrome.Transport\obj\Debug\Autodrome.Transport.csprojResolveAssemblyReference.cache
+C:\Users\Anatoly Maltsev\Desktop\GitHub\Transport\Autodrome.Transport\obj\Debug\Autodrome.Transport.Properties.Resources.resources
+C:\Users\Anatoly Maltsev\Desktop\GitHub\Transport\Autodrome.Transport\obj\Debug\Autodrome.Transport.TransportForm.resources
+C:\Users\Anatoly Maltsev\Desktop\GitHub\Transport\Autodrome.Transport\obj\Debug\Autodrome.Transport.csproj.GenerateResource.Cache
+C:\Users\Anatoly Maltsev\Desktop\GitHub\Transport\Autodrome.Transport\obj\Debug\Autodrome.Transport.exe
+C:\Users\Anatoly Maltsev\Desktop\GitHub\Transport\Autodrome.Transport\obj\Debug\Autodrome.Transport.pdb
