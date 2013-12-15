@@ -165,6 +165,12 @@ namespace Autodrome.Transport
                 var stream = row.Tag as StreamInfo;
                 if (stream != null)
                 {
+                    var dead = MainLogic.IsClientDead(stream.Client);
+                    if (dead)
+                    {
+                        dataGridView1.Rows.Remove(row);
+                        return;
+                    }
                     Int64 read = stream.BytesRead;
                     Int64 written = stream.BytesWritten;
 

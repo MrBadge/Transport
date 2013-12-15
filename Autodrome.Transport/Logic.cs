@@ -130,6 +130,26 @@ namespace Autodrome.Transport
             }
         }
 
+        public static bool IsClientDead(TcpClient tcp)
+        {
+            try
+            {
+                if (tcp.Client.Poll(0, SelectMode.SelectRead))
+                {
+                    byte[] buff = new byte[1];
+                    if (tcp.Client.Receive(buff, SocketFlags.Peek) == 0)
+                    {
+                        return true;
+                    }
+                }
+            }
+            catch (Exception/*ObjectDisposedException*/)
+            {
+                return true;
+            }
+            return false;
+        }
+
         private void acceptCallback(IAsyncResult ar)
         {
             var listener = ar.AsyncState as ListenerInfo;
@@ -189,11 +209,6 @@ namespace Autodrome.Transport
         public void error(StreamInfo stream, String str)
         {
             //if (Dispatcher.CurrentDispatcher.CheckAccess())
-            //{
-            //    error(stream, str);
-            //    Dispatcher.CurrentDispatcher.BeginInvoke(errorHandler, new object[] { stream, str });
-            //    return;
-            //}
             if (Transport.form.InvokeRequired)
             {
                 Transport.form.Invoke(errorHandler, new object[] {stream, str});
@@ -259,10 +274,6 @@ namespace Autodrome.Transport
         public void availabilityTimer_Tick(object sender, EventArgs e)
         {
             //if (Dispatcher.CurrentDispatcher.CheckAccess())
-            //{
-            //    Dispatcher.CurrentDispatcher.BeginInvoke(availableHandler, new object[] { sender, e });
-            //    return;
-            //}
             if (Transport.form.InvokeRequired)
             {
                 Transport.form.Invoke(availableHandler, new[] {sender, e});

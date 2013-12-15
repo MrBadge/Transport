@@ -79,5 +79,14 @@ namespace Autodrome.Transport.Properties {
                 return ((System.Drawing.Icon)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на Exception readCallback: {0}.
+        /// </summary>
+        internal static string MainLogic_readCallback_Exception_readCallback___0_ {
+            get {
+                return ResourceManager.GetString("MainLogic_readCallback_Exception_readCallback___0_", resourceCulture);
+            }
+        }
     }
 }
