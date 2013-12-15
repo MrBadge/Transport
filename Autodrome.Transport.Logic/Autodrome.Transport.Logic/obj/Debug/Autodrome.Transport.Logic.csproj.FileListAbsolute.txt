@@ -1,0 +1,17 @@
+\\vmware-host\Shared Folders\Dropbox\Logos\transport\123\Autodrome.Transport.Logic\Autodrome.Transport.Logic\bin\Debug\Autodrome.Transport.Logic.dll
+\\vmware-host\Shared Folders\Dropbox\Logos\transport\123\Autodrome.Transport.Logic\Autodrome.Transport.Logic\bin\Debug\Autodrome.Transport.Logic.pdb
+\\vmware-host\Shared Folders\Dropbox\Logos\transport\123\Autodrome.Transport.Logic\Autodrome.Transport.Logic\bin\Debug\Autodrome.Base.dll
+\\vmware-host\Shared Folders\Dropbox\Logos\transport\123\Autodrome.Transport.Logic\Autodrome.Transport.Logic\bin\Debug\Autodrome.Interfaces.dll
+\\vmware-host\Shared Folders\Dropbox\Logos\transport\123\Autodrome.Transport.Logic\Autodrome.Transport.Logic\bin\Debug\Autodrome.Base.pdb
+\\vmware-host\Shared Folders\Dropbox\Logos\transport\123\Autodrome.Transport.Logic\Autodrome.Transport.Logic\bin\Debug\Autodrome.Interfaces.pdb
+\\vmware-host\Shared Folders\Dropbox\Logos\transport\123\Autodrome.Transport.Logic\Autodrome.Transport.Logic\obj\Debug\Autodrome.Transport.Logic.dll
+\\vmware-host\Shared Folders\Dropbox\Logos\transport\123\Autodrome.Transport.Logic\Autodrome.Transport.Logic\obj\Debug\Autodrome.Transport.Logic.pdb
+\\psf\Dropbox\Logos\transport\123\Autodrome.Transport.Logic\Autodrome.Transport.Logic\bin\Debug\Autodrome.Transport.Logic.dll
+\\psf\Dropbox\Logos\transport\123\Autodrome.Transport.Logic\Autodrome.Transport.Logic\bin\Debug\Autodrome.Transport.Logic.pdb
+\\psf\Dropbox\Logos\transport\123\Autodrome.Transport.Logic\Autodrome.Transport.Logic\bin\Debug\Autodrome.Base.dll
+\\psf\Dropbox\Logos\transport\123\Autodrome.Transport.Logic\Autodrome.Transport.Logic\bin\Debug\Autodrome.Interfaces.dll
+\\psf\Dropbox\Logos\transport\123\Autodrome.Transport.Logic\Autodrome.Transport.Logic\bin\Debug\Autodrome.Base.pdb
+\\psf\Dropbox\Logos\transport\123\Autodrome.Transport.Logic\Autodrome.Transport.Logic\bin\Debug\Autodrome.Interfaces.pdb
+\\psf\Dropbox\Logos\transport\123\Autodrome.Transport.Logic\Autodrome.Transport.Logic\obj\Debug\Autodrome.Transport.Logic.csprojResolveAssemblyReference.cache
+\\psf\Dropbox\Logos\transport\123\Autodrome.Transport.Logic\Autodrome.Transport.Logic\obj\Debug\Autodrome.Transport.Logic.dll
+\\psf\Dropbox\Logos\transport\123\Autodrome.Transport.Logic\Autodrome.Transport.Logic\obj\Debug\Autodrome.Transport.Logic.pdb

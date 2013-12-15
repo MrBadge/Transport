@@ -1,0 +1,47 @@
+C:\Users\Анатолий\Desktop\transport\123\Autodrome.Transport\obj\Debug\Autodrome.Transport.csprojResolveAssemblyReference.cache
+C:\Users\Анатолий\Desktop\transport\123\Autodrome.Transport\obj\Debug\Autodrome.Transport.Properties.Resources.resources
+C:\Users\Анатолий\Desktop\transport\123\Autodrome.Transport\obj\Debug\Autodrome.Transport.TransportForm.resources
+C:\Users\Анатолий\Desktop\transport\123\Autodrome.Transport\obj\Debug\Autodrome.Transport.csproj.GenerateResource.Cache
+C:\Users\Анатолий\Desktop\transport\123\Autodrome.Transport\obj\Debug\Autodrome.Transport.exe
+C:\Users\Анатолий\Desktop\transport\123\Autodrome.Transport\obj\Debug\Autodrome.Transport.pdb
+C:\Users\Анатолий\Desktop\transport\123\Autodrome.Transport\bin\Debug\Resources\IdleIcon.ico
+C:\Users\Анатолий\Desktop\transport\123\Autodrome.Transport\bin\Debug\Resources\BusyIcon.ico
+C:\Users\Анатолий\Desktop\transport\123\Autodrome.Transport\bin\Debug\Autodrome.Transport.exe.config
+C:\Users\Анатолий\Desktop\transport\123\Autodrome.Transport\bin\Debug\Autodrome.Transport.exe
+C:\Users\Анатолий\Desktop\transport\123\Autodrome.Transport\bin\Debug\Autodrome.Transport.pdb
+C:\Users\Анатолий\Desktop\transport\123\Autodrome.Transport\bin\Debug\Autodrome.Base.dll
+C:\Users\Анатолий\Desktop\transport\123\Autodrome.Transport\bin\Debug\Autodrome.Interfaces.dll
+C:\Users\Анатолий\Desktop\transport\123\Autodrome.Transport\bin\Debug\Autodrome.Base.pdb
+C:\Users\Анатолий\Desktop\transport\123\Autodrome.Transport\bin\Debug\Autodrome.Interfaces.pdb
+\\vmware-host\Shared Folders\Dropbox\Logos\transport\123\Autodrome.Transport\obj\Debug\Autodrome.Transport.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Dropbox\Logos\transport\123\Autodrome.Transport\obj\Debug\Autodrome.Transport.Properties.Resources.resources
+\\vmware-host\Shared Folders\Dropbox\Logos\transport\123\Autodrome.Transport\obj\Debug\Autodrome.Transport.TransportForm.resources
+\\vmware-host\Shared Folders\Dropbox\Logos\transport\123\Autodrome.Transport\obj\Debug\Autodrome.Transport.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Dropbox\Logos\transport\123\Autodrome.Transport\obj\Debug\Autodrome.Transport.exe
+\\vmware-host\Shared Folders\Dropbox\Logos\transport\123\Autodrome.Transport\obj\Debug\Autodrome.Transport.pdb
+\\vmware-host\Shared Folders\Dropbox\Logos\transport\123\Autodrome.Transport\bin\Debug\Resources\IdleIcon.ico
+\\vmware-host\Shared Folders\Dropbox\Logos\transport\123\Autodrome.Transport\bin\Debug\Resources\BusyIcon.ico
+\\vmware-host\Shared Folders\Dropbox\Logos\transport\123\Autodrome.Transport\bin\Debug\Autodrome.Transport.exe.config
+\\vmware-host\Shared Folders\Dropbox\Logos\transport\123\Autodrome.Transport\bin\Debug\Autodrome.Transport.exe
+\\vmware-host\Shared Folders\Dropbox\Logos\transport\123\Autodrome.Transport\bin\Debug\Autodrome.Transport.pdb
+\\vmware-host\Shared Folders\Dropbox\Logos\transport\123\Autodrome.Transport\bin\Debug\Autodrome.Base.dll
+\\vmware-host\Shared Folders\Dropbox\Logos\transport\123\Autodrome.Transport\bin\Debug\Autodrome.Transport.Logic.dll
+\\vmware-host\Shared Folders\Dropbox\Logos\transport\123\Autodrome.Transport\bin\Debug\Autodrome.Interfaces.dll
+\\vmware-host\Shared Folders\Dropbox\Logos\transport\123\Autodrome.Transport\bin\Debug\Autodrome.Base.pdb
+\\vmware-host\Shared Folders\Dropbox\Logos\transport\123\Autodrome.Transport\bin\Debug\Autodrome.Transport.Logic.pdb
+\\vmware-host\Shared Folders\Dropbox\Logos\transport\123\Autodrome.Transport\bin\Debug\Autodrome.Interfaces.pdb
+\\psf\Dropbox\Logos\transport\123\Autodrome.Transport\obj\Debug\Autodrome.Transport.csprojResolveAssemblyReference.cache
+\\psf\Dropbox\Logos\transport\123\Autodrome.Transport\obj\Debug\Autodrome.Transport.Properties.Resources.resources
+\\psf\Dropbox\Logos\transport\123\Autodrome.Transport\obj\Debug\Autodrome.Transport.TransportForm.resources
+\\psf\Dropbox\Logos\transport\123\Autodrome.Transport\obj\Debug\Autodrome.Transport.csproj.GenerateResource.Cache
+\\psf\Dropbox\Logos\transport\123\Autodrome.Transport\obj\Debug\Autodrome.Transport.exe
+\\psf\Dropbox\Logos\transport\123\Autodrome.Transport\bin\Debug\Resources\IdleIcon.ico
+\\psf\Dropbox\Logos\transport\123\Autodrome.Transport\bin\Debug\Resources\BusyIcon.ico
+\\psf\Dropbox\Logos\transport\123\Autodrome.Transport\bin\Debug\Autodrome.Transport.exe.config
+\\psf\Dropbox\Logos\transport\123\Autodrome.Transport\bin\Debug\Autodrome.Transport.exe
+\\psf\Dropbox\Logos\transport\123\Autodrome.Transport\bin\Debug\Autodrome.Transport.pdb
+\\psf\Dropbox\Logos\transport\123\Autodrome.Transport\bin\Debug\Autodrome.Base.dll
+\\psf\Dropbox\Logos\transport\123\Autodrome.Transport\bin\Debug\Autodrome.Interfaces.dll
+\\psf\Dropbox\Logos\transport\123\Autodrome.Transport\bin\Debug\Autodrome.Base.pdb
+\\psf\Dropbox\Logos\transport\123\Autodrome.Transport\bin\Debug\Autodrome.Interfaces.pdb
+\\psf\Dropbox\Logos\transport\123\Autodrome.Transport\obj\Debug\Autodrome.Transport.pdb
