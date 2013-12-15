@@ -17,10 +17,10 @@ namespace Autodrome.Base
          Shutdown = 3,
       }
 
-      public static String[] GetLocalAddresses()
+      public static object[] GetLocalAddresses()
       {
          IPAddress[] local_addresses = Dns.GetHostAddresses(Dns.GetHostName());
-         String[] result = new String[local_addresses.Length + 1];
+         object[] result = new String[local_addresses.Length + 1];
          result[0] = "127.0.0.1";
          for (int i = 0; i < local_addresses.Length; i++)
          {

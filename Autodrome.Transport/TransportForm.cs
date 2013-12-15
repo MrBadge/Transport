@@ -13,7 +13,7 @@ namespace Autodrome.Transport
     {
         private readonly Logger LogManager;
         private readonly MainLogic Logic;
-        private readonly EventHandler availableHandler;
+        public readonly EventHandler availableHandler;
 
         //public delegate void AcceptHandler(StreamInfo stream);
         //public AcceptHandler acceptHandler;
@@ -92,17 +92,16 @@ namespace Autodrome.Transport
 
         public void After_error_update(StreamInfo stream, String str)
         {
-            logView.Items.Add(String.Format("{0}: {1} {2}", new object[]
-            {
-                DateTime.Now.ToLongTimeString(),
-                stream.Client.Client.RemoteEndPoint,
-                str
-            }));
-
             foreach (DataGridViewRow row in dataGridView1.Rows)
             {
                 if (row.Tag == stream)
                 {
+                    logView.Items.Add(String.Format("{0}: {1} {2}", new object[]
+                    {
+                        DateTime.Now.ToLongTimeString(),
+                        /*stream.Client.Client.RemoteEndPoint*/row.Cells[columnAddress.Index].Value,
+                        str
+                    }));
                     dataGridView1.Rows.Remove(row);
                 }
             }
@@ -146,10 +145,17 @@ namespace Autodrome.Transport
 
         private void TransportForm_FormClosed(object sender, FormClosedEventArgs e)
         {
-            var base_serial = Logic.baseStream.Tag as SerialPort;
-            if (base_serial != null)
+            try
             {
-                base_serial.RtsEnable = false;
+                var base_serial = Logic.baseStream.Tag as SerialPort;
+                if (base_serial != null)
+                {
+                    base_serial.RtsEnable = false;
+                }
+            }
+            catch (Exception)
+            {
+             //Application was not launched     
             }
         }
 
@@ -169,6 +175,7 @@ namespace Autodrome.Transport
                     if (dead)
                     {
                         dataGridView1.Rows.Remove(row);
+                        //update(sender, args);
                         return;
                     }
                     Int64 read = stream.BytesRead;

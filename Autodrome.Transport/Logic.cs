@@ -19,7 +19,7 @@ namespace Autodrome.Transport
         private readonly byte[] output_buffer;
         private readonly ReadHandler readHandler;
         public List<StreamInfo> applicationStreams;
-        private EventHandler availableHandler;
+        //private EventHandler availableHandler;
         public StreamInfo baseStream;
 
         public MainLogic(Logger LogManager)
@@ -132,6 +132,8 @@ namespace Autodrome.Transport
 
         public static bool IsClientDead(TcpClient tcp)
         {
+            if (!tcp.Connected)
+                return true;
             try
             {
                 if (tcp.Client.Poll(0, SelectMode.SelectRead))
@@ -142,12 +144,12 @@ namespace Autodrome.Transport
                         return true;
                     }
                 }
+                return false;
             }
             catch (Exception/*ObjectDisposedException*/)
             {
                 return true;
             }
-            return false;
         }
 
         private void acceptCallback(IAsyncResult ar)
@@ -276,7 +278,7 @@ namespace Autodrome.Transport
             //if (Dispatcher.CurrentDispatcher.CheckAccess())
             if (Transport.form.InvokeRequired)
             {
-                Transport.form.Invoke(availableHandler, new[] {sender, e});
+                Transport.form.Invoke(Transport.form.availableHandler, new[] {sender, e});
                 return;
             }
             foreach (StreamInfo s in autodromeStreams.Values)
@@ -316,7 +318,7 @@ namespace Autodrome.Transport
                             Array.Copy(stream.InputBuffer, 0, output_buffer, 12, count);
                             LogManager.DoLogging(output_buffer, count);
                         }
-                        catch (Exception e)
+                        catch (Exception)
                         {
                         }
                         foreach (StreamInfo application in applicationStreams)

@@ -7,3 +7,12 @@ C:\Users\Анатолий\Desktop\transport\123\Autodrome.Navigation\bin\Debug\A
 C:\Users\Анатолий\Desktop\transport\123\Autodrome.Navigation\obj\Debug\Autodrome.Navigation.csprojResolveAssemblyReference.cache
 C:\Users\Анатолий\Desktop\transport\123\Autodrome.Navigation\obj\Debug\Autodrome.Navigation.dll
 C:\Users\Анатолий\Desktop\transport\123\Autodrome.Navigation\obj\Debug\Autodrome.Navigation.pdb
+C:\Users\Anatoly Maltsev\Desktop\GitHub\Transport\Autodrome.Navigation\bin\Debug\Autodrome.Navigation.dll
+C:\Users\Anatoly Maltsev\Desktop\GitHub\Transport\Autodrome.Navigation\bin\Debug\Autodrome.Navigation.pdb
+C:\Users\Anatoly Maltsev\Desktop\GitHub\Transport\Autodrome.Navigation\bin\Debug\Autodrome.Base.dll
+C:\Users\Anatoly Maltsev\Desktop\GitHub\Transport\Autodrome.Navigation\bin\Debug\Autodrome.Interfaces.dll
+C:\Users\Anatoly Maltsev\Desktop\GitHub\Transport\Autodrome.Navigation\bin\Debug\Autodrome.Base.pdb
+C:\Users\Anatoly Maltsev\Desktop\GitHub\Transport\Autodrome.Navigation\bin\Debug\Autodrome.Interfaces.pdb
+C:\Users\Anatoly Maltsev\Desktop\GitHub\Transport\Autodrome.Navigation\obj\Debug\Autodrome.Navigation.csprojResolveAssemblyReference.cache
+C:\Users\Anatoly Maltsev\Desktop\GitHub\Transport\Autodrome.Navigation\obj\Debug\Autodrome.Navigation.dll
+C:\Users\Anatoly Maltsev\Desktop\GitHub\Transport\Autodrome.Navigation\obj\Debug\Autodrome.Navigation.pdb
